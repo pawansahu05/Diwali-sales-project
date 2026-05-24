@@ -1,42 +1,42 @@
 # Data Collection
-Diwali Sales dataset import kiya gaya.
-Dataset me customer purchase aur sales related information available thi.
-Total 11,251 records aur 15 columns the.
+The Diwali Sales dataset was imported.
+The dataset contained customer purchase and sales-related information.
+It included 11,251 records and 15 columns.
 # Data Understanding
-Dataset ke columns ko samjha gaya, jaise:
+The dataset columns were analyzed and understood, such as:
 Customer details (Gender, Age, Marital Status, State, Occupation)
 Product details (Product ID, Product Category)
 Sales details (Orders, Amount)
 # Data Cleaning
-Missing values check ki gayi.
-Amount column me missing values remove/fill ki gayi.
-Status aur unnamed1 jaise unnecessary empty columns delete kiye gaye.
-Duplicate aur null data handle kiya gaya.
+Missing values were checked and handled.
+Missing values in the Amount column were removed or filled.
+Unnecessary empty columns such as Status and unnamed1 were removed.
+Duplicate and null values were handled properly.
 # Data Exploration (EDA – Exploratory Data Analysis)
-Customer purchasing behavior ko analyze kiya gaya.
-Gender-wise sales comparison ki gayi.
-Age group ke according shopping trends dekhe gaye.
-State-wise aur zone-wise sales analyze ki gayi.
-5. Customer Analysis
-Kis gender ne zyada shopping ki ye identify kiya gaya.
-Kis age group ne sabse zyada spending ki ye check kiya gaya.
-Married aur unmarried customers ka purchase behavior compare kiya gaya.
+Customer purchasing behavior was analyzed.
+Gender-wise sales comparisons were performed.
+Shopping trends based on age groups were studied.
+State-wise and zone-wise sales analysis was conducted.
+# Customer Analysis
+The gender with higher purchasing activity was identified.
+The age group with the highest spending was analyzed.
+Purchase behavior of married and unmarried customers was compared.
 # Sales Analysis
-Top product categories identify ki gayi.
-Highest revenue generating states analyze kiye gaye.
-Occupation-wise spending pattern dekha gaya.
-Orders aur sales amount ka relationship samjha gaya.
+Top product categories were identified.
+States generating the highest revenue were analyzed.
+Occupation-wise spending patterns were examined.
+The relationship between orders and sales amount was studied.
 # Data Visualization
-Charts aur graphs use kiye gaye:
+Various charts and graphs were used, such as:
 Bar Chart → State/Gender sales comparison
-Pie Chart → Product category share
+Pie Chart → Product category distribution
 Histogram → Age distribution
 Count Plot → Customer segmentation
 # Key Insights / Findings
-Women customers ne comparatively zyada shopping ki.
-26–35 age group ka spending zyada tha.
-Kuch states ne highest sales contribute ki.
-Specific product categories festival season me zyada bikti hain.
+Female customers contributed comparatively higher shopping activity.
+The 26–35 age group showed higher spending behavior.
+Certain states contributed the highest sales.
+Some product categories performed better during the festival season.
 # Conclusion
-Diwali sales data se customer behavior aur sales trends ko samjha gaya.
-Business future marketing aur product targeting improve kar sakta hai based on insights.
+The Diwali sales data helped in understanding customer behavior and sales trends.
+Businesses can improve future marketing strategies and product targeting based on these insights.
